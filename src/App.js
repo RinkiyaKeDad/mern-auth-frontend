@@ -4,6 +4,7 @@ import Home from './components/pages/Home';
 import Header from './components/layout/Header';
 import Login from './components/auth/Login';
 import Register from './components/auth/Register';
+import './style.css';
 
 export default function App() {
   return (
